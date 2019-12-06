@@ -33,6 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
+    <!-- ... Other props ... -->
+    <DeployDefaultTargetFrameworkVersion>4.5</DeployDefaultTargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup>
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
